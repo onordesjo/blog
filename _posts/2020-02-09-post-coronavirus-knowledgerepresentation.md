@@ -1,5 +1,5 @@
 ---
-title: "Post: Representing knowledge about the corona virus"
+title: "Post: Representing knowledge about the coronavirus"
 last_modified_at: 2020-02-08T12:49:02+00:00
 categories:
   - Blog
