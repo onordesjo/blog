@@ -23,7 +23,6 @@ Some different categories that immediately come to mind are:
 At the moment, there is (at least to my knowledge) no nice way to for example set up a notification system where it's possible to subscribe to such types of 'knowledge channels'.
 
 I guess Google Alerts come close, but it's not quite the right thing.
-nclude figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 Here is a first version of a knowledge graph that contains some elements which I think are important about the outbreak:
 
